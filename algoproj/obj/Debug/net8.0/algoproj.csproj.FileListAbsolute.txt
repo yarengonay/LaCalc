@@ -1,0 +1,14 @@
+C:\Yeni klasör\algoproj\algoproj\bin\Debug\net8.0\algoproj.exe
+C:\Yeni klasör\algoproj\algoproj\bin\Debug\net8.0\algoproj.deps.json
+C:\Yeni klasör\algoproj\algoproj\bin\Debug\net8.0\algoproj.runtimeconfig.json
+C:\Yeni klasör\algoproj\algoproj\bin\Debug\net8.0\algoproj.dll
+C:\Yeni klasör\algoproj\algoproj\bin\Debug\net8.0\algoproj.pdb
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.AssemblyInfoInputs.cache
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.AssemblyInfo.cs
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.dll
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\refint\algoproj.dll
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.pdb
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\algoproj.genruntimeconfig.cache
+C:\Yeni klasör\algoproj\algoproj\obj\Debug\net8.0\ref\algoproj.dll
